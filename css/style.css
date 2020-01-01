@@ -1,0 +1,167 @@
+/* Author Name : Mohammed Faruk ;
+   Mail Address : mohammed.faruk.75@gmail.com
+   Website link : ;
+
+*/
+/* 
+===== Index ========
+
+    1. Header 
+    2. Fusce at
+    3. Facilisis
+    4. Ante donec
+    5. Blandit rhoncus
+    6. Placerat 
+    7. Footer 
+*/
+body {font-family: 'Roboto', sans-serif;}
+h1 {font-size: 45px;color: #fff;font-weight: 400;}
+h2{font-size: 61px;color: #fff;font-weight: 400;
+    text-transform: uppercase;}
+h3 {font-size: 40px;color: #31353e;font-weight: bold;
+    letter-spacing: 2px;}
+h4{font-size: 40px;color: #fff;font-weight: bold;
+    letter-spacing: 2px;}
+h6{font-size: 16px; color: #fff;}
+p {font-size: 13px; color: #31353e;}
+.btn:hover{transform: perspective(500px)rotate(0deg) skew(0deg) 
+    translate(0px,0px);box-shadow: 0px 10px 10px rgba(0, 0, 0, 0.5);}
+.btn-one {padding: 10px 60px;margin: 50px auto;display: block;
+    color: #161616;border-radius: 30px;font-size: 25px;    background-color: #ffffff;
+    transition: 0.7s;}
+.btn-two {padding: 10px 40px;margin: 30px auto;display: block;
+    color: #4e5159;border-radius: 30px;font-size: 16px;background-color: #ffffff;
+    transition: 0.7s;}
+.btn-sec {color: #6c757d;background-color: #ffffff;border-radius: 5px 30px 30px 5px;
+    padding: 6px 20px;}
+.form-control {display: block;font-size: 16px;font-weight: 400;
+    color: #495057;background-color: #ffffff6e;background-clip: padding-box;
+    border-radius: 30px;transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;}
+.for {margin-top: 20px;}
+.btn-five {
+    padding: 10px 40px;
+    margin: 30px auto;
+    color: #ffffff;
+    border-radius: 30px;
+    font-size: 16px;
+    background-color: #dd4b2b;
+    transition: 0.7s;}
+.btn-six {
+    padding: 10px 40px;
+    margin: 30px auto;
+    color: #ffffff;
+    border-radius: 30px;
+    font-size: 16px;
+    background-color: #4b4e73;
+    transition: 0.7s;}
+.no-padding {padding: 0px;}
+
+/* theme css */
+
+header {}
+.nav-head {background-color: #edeff1!important;padding: 24px 0px;
+    color: #31353e;}
+.nav-link.js-scroll-trigger.active {background-color: #dd4b2b;
+    padding : 6px 12px;border-radius: 35px;color: #ffffff!important;
+}
+.nav-link{
+    color: #31353e!important;
+}
+.hero {
+    background:url(../img/Panakeia.jpg)top center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+}
+.hero-title{
+    padding-top: 400px;
+    padding-bottom: 40px;
+}
+.img-center {
+    display: block;
+    margin: 0 auto;
+    padding-top: 65px;
+}
+.food-news {
+    background-color: #edeff1;
+    text-align: center;
+
+}
+.food-news p {
+    margin: 0px 35px;
+}
+.Newsletter {
+    background-image: url(../img/food-bot.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    text-align: center;
+}
+.Newsletter h6{
+   font-size: 14px;
+}
+.benner {
+
+}
+.shortcut{
+    background-color: #d75d0e;
+    padding-top: 50px;
+
+}
+.shortcut li{
+    list-style: none;
+    text-align: center;
+    color: #ffffff;
+    font-size: 20px;
+}
+footer{
+    padding-top: 80px;
+    background-image: url(../img/food-bot.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    
+    
+}
+.footer-end p{font-size: 16px;padding-bottom: 65px;}
+/* Extra small devices (portrait phones, less than 320px)*/
+
+
+
+
+@media (min-width: 0px) and (max-width:500px ) {
+    body{text-align: center;}
+   h1{font-size: 25px;color :#f90ac4;}
+   h2{font-size: 30px;color :#f90ac4;}
+   h3{font-size: 25px;color :#f90ac4;}
+   h4{font-size: 30px;color :#f90ac4;} 
+}
+@media (min-width: 500.01px) and (max-width:768px ) {
+
+}
+
+@media (min-width: 768.01px) and (max-width:1200px ) {
+
+}
+
+@media (min-width: 1200.01px) {
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
